@@ -2,7 +2,7 @@
 title: Google Summer of Code
 subtitle: Software Engineering
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2024-05-01
 img:
 thumbnail: gsoc-thumbnail.png
